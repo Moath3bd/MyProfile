@@ -1,0 +1,18 @@
+#right{
+    float: right;
+}
+.center{
+text-align: center;
+}
+td {
+    padding: 10px;
+}
+td[colspan="5"], td[colspan="10"] {
+    width: 50%;
+}
+table
+{
+    position: absolute;
+
+}
+
